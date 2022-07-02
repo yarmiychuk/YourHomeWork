@@ -43,3 +43,5 @@
 * *git remote add origin https_addres* - команда для привязки локального репозитория к существующему репозиторию на GitHub
 
 * *git brach -M branch_name* - команда для указания ветки с именем branch_name в качестве основной
+
+* *git push -u origin brand_name* - команда для первой отправки локального репозитория (основной ветки branch_name)
